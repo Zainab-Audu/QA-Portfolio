@@ -1,40 +1,47 @@
-# QA-Portfolio
-Manual QA Testing Portfolio | Test Cases | Bug Reports | API | SQ
- ## About Me 👋
+# QA Portfolio
+
+**Manual QA Testing | Web & Mobile Testing | API Testing | SQL | Test Documentation**
+
+## About Me 👋
 
 **I don't trust the happy path.**
+
 Not because I expect everything to break, but because real users rarely behave exactly the way a developer imagined they would.
+
 I like asking questions.
+
 What if the user clicks this twice?
+
 What if they leave this field empty?
+
 What if the network disappears halfway through?
+
 What if they use a different browser?
+
 What if the API sends something unexpected?
+
 And perhaps my favourite question: **“What happens if I do this?”**
+
 That mindset is what I bring to Quality Assurance.
-I focus on **manual testing of web and mobile applications**, exploring products beyond their expected flow and looking for functional, usability, UI, compatibility, and edge-case issues. My toolkit includes **Jira, Postman, SQL, GitHub, and browser DevTools**, with practical knowledge of API testing, database validation, test design, defect management, and Agile workflows.
+
+I focus on **manual testing of web and mobile applications**, exploring products beyond their expected flow and looking for functional, usability, UI, compatibility, and edge-case issues. My toolkit includes **Jira, Postman, SQL, GitHub, and Chrome DevTools**, with practical knowledge of API testing, database validation, test design, defect management, and Agile workflows.
+
 But I don't see QA as simply *finding bugs*.
+
 A good tester investigates.
 A good tester questions assumptions.
 A good tester notices the detail everyone else missed.
 And a great tester can explain a problem clearly enough for someone else to reproduce it and fix it.
+
 This portfolio is a collection of that process — **what I test, how I think, what I find, and how I document it.**
+
 So, if everything appears to be working perfectly...
+
 **I'll probably try it one more time. 🔍**
 
-## Testing Tools 🛠️
+---
 
-- Jira — defect tracking and project management
-- Postman — API testing
-- GitHub — version control and portfolio management
-- Chrome DevTools — browser debugging and investigation
-- SQL — database testing
-- Excel — test case management and test execution
-- Git — version control
-- HTML& CSS
-- Javascript
-
-- ## QA Skills 🔍
+## QA Skills 🔍
 
 ### 🧪 Testing
 
@@ -64,6 +71,7 @@ So, if everything appears to be working perfectly...
 ### 🔌 API & Database Testing
 
 * REST API Testing
+* API Request & Response Validation
 * Postman
 * Database Testing
 * SQL
@@ -78,59 +86,71 @@ So, if everything appears to be working perfectly...
 * Severity & Priority
 * Risk-Based Testing
 
-### 🛠️ QA Tools
+---
 
-* Jira
-* GitHub
-* Chrome DevTools
-* Postman
-* Microsoft Excel
+## Testing Tools 🛠️
+
+| Tool / Technology   | Purpose                                                     |
+| ------------------- | ----------------------------------------------------------- |
+| **Jira**            | Defect tracking and project management                      |
+| **Postman**         | REST API testing                                            |
+| **Chrome DevTools** | Browser debugging and investigation                         |
+| **GitHub**          | Version control and QA documentation                        |
+| **Git**             | Version control                                             |
+| **Microsoft Excel** | Test case management and test execution                     |
+| **SQL**             | Database querying and validation                            |
+| **HTML & CSS**      | Web application inspection and understanding                |
+| **JavaScript**      | Understanding web application behaviour and basic debugging |
+
+---
 
 ## QA Knowledge 📚
 
 ### Software Testing
-- SDLC and STLC
-- Test levels
-- Test types
-- Test principles
-- Defect lifecycle
-- Severity and priority
-- Test case design techniques
-- Risk-based testing
-- Regression testing
-- Smoke and sanity testing
+
+* SDLC and STLC
+* Test Levels
+* Test Types
+* Testing Principles
+* Defect Life Cycle
+* Severity and Priority
+* Risk-Based Testing
+* Regression Testing
+* Smoke Testing
+* Sanity Testing
 
 ### Test Design Techniques
-- Equivalence Partitioning
-- Boundary Value Analysis
-- Decision Table Testing
-- State Transition Testing
-- Use Case Testing
+
+* Equivalence Partitioning
+* Boundary Value Analysis
+* Decision Table Testing
+* State Transition Testing
+* Use Case Testing
 
 ### API Testing
-- REST APIs
-- HTTP methods
-- Status codes
-- Headers
-- Request/response validation
-- JSON
-- Postman
+
+* REST APIs
+* HTTP Methods
+* HTTP Status Codes
+* Headers
+* Request and Response Validation
+* JSON
+* Postman
 
 ### Database Testing
-- SELECT
-- WHERE
-- JOIN
-- GROUP BY
-- ORDER BY
-- Aggregate functions
-- Subqueries
 
-- ## Certifications & Training 🎓
+* SELECT
+* WHERE
+* JOIN
+* GROUP BY
+* ORDER BY
+* Aggregate Functions
+* Subqueries
 
-- ISTQB Foundation Level — [In progress]
-- SQL — [TIIDELAB]
-- Automation Testing — [Coursera]
-  
+---
 
+## Certifications & Training 🎓
 
- 
+* **ISTQB Foundation Level** — In Progress
+* **SQL Training** — TIIDELab
+* **Automation Testing** — Coursera
