@@ -1,6 +1,5 @@
 # QA-Portfolio
-Manual QA Testing Portfolio | Test Cases | Bug Reports | API | SQL
- About Me 👋
+Manual QA Testing Portfolio | Test Cases | Bug Reports | API | SQ
  ## About Me 👋
 
 **I don't trust the happy path.**
