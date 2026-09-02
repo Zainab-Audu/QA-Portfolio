@@ -56,16 +56,12 @@ Each test case follows a standard structure:
 
 | ID | Summary | Severity | Status |
 |---|---|---|---|
-| — | *(add bug summary here)* | Medium | To Do |
-| — | *(add bug summary here)* | Low | To Do |
+| — | *<img width="1227" height="414" alt="Error messgae2026-03-31 121402" src="https://github.com/user-attachments/assets/9cdf229f-ddea-46a7-b03d-7dff8498a15a" />
+* | Medium | To Do |
+| — | *<img width="1128" height="541" alt="NETFLIXCLONESCREENSHOT " src="https://github.com/user-attachments/assets/f178b9ba-157a-4c3c-9498-cef08ac3bf51" />
+* | Low | To Do |
 
 Two defects were identified and logged during test execution, each documented with steps to reproduce, expected vs. actual behavior, and severity classification, following the project's defect-management process.
-
-> 📌 *Replace the placeholders above with your actual bug summaries — happy to help you write these out in full if you paste the details.*
-
----
-
-## 📸 Screenshots
 
 
 
